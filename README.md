@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SwissSim
+- 👀 I’m interested in Enironmentalism, Movies, Gaming and Fitness
+- 🌱 I’m currently studying Environmental Engineering and learning Python and R
